@@ -1,0 +1,26 @@
+{
+  "type": "megaoredeposits:ore_deposit",
+  "config": {
+    "stone_ore": {
+      "Name": "minecraft:lapis_ore"
+    },
+    "deepslate_ore": {
+      "Name": "minecraft:deepslate_lapis_ore"
+    },
+    "rich_ore": {
+      "Name": "minecraft:lapis_block"
+    },
+    "host_rock": {
+      "Name": "minecraft:calcite"
+    },
+    "surface_sample": {
+      "Name": "megaoredeposits:lapis_sample"
+    },
+    "radius_xz": 9,
+    "radius_y": 4,
+    "density": 0.5,
+    "rich_core_chance": 0.18,
+    "host_rock_chance": 0.3,
+    "surface_sample_count": 4
+  }
+}

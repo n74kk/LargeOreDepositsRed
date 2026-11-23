@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "megaoredeposits:block/gold_sample"
+      },
+      {
+        "model": "megaoredeposits:block/gold_sample",
+        "y": 90
+      },
+      {
+        "model": "megaoredeposits:block/gold_sample",
+        "y": 180
+      },
+      {
+        "model": "megaoredeposits:block/gold_sample",
+        "y": 270
+      }
+    ]
+  }
+}

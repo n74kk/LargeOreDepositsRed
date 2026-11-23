@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "megaoredeposits:block/diamond_sample"
+      },
+      {
+        "model": "megaoredeposits:block/diamond_sample",
+        "y": 90
+      },
+      {
+        "model": "megaoredeposits:block/diamond_sample",
+        "y": 180
+      },
+      {
+        "model": "megaoredeposits:block/diamond_sample",
+        "y": 270
+      }
+    ]
+  }
+}

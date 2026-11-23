@@ -1,0 +1,26 @@
+{
+  "type": "megaoredeposits:ore_deposit",
+  "config": {
+    "stone_ore": {
+      "Name": "minecraft:copper_ore"
+    },
+    "deepslate_ore": {
+      "Name": "minecraft:deepslate_copper_ore"
+    },
+    "rich_ore": {
+      "Name": "minecraft:raw_copper_block"
+    },
+    "host_rock": {
+      "Name": "minecraft:granite"
+    },
+    "surface_sample": {
+      "Name": "megaoredeposits:copper_sample"
+    },
+    "radius_xz": 13,
+    "radius_y": 6,
+    "density": 0.62,
+    "rich_core_chance": 0.25,
+    "host_rock_chance": 0.35,
+    "surface_sample_count": 5
+  }
+}

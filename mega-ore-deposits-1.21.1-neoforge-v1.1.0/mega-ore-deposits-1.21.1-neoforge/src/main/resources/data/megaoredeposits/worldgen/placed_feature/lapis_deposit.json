@@ -1,0 +1,27 @@
+{
+  "feature": "megaoredeposits:lapis_deposit",
+  "placement": [
+    {
+      "type": "megaoredeposits:deposit_rarity",
+      "chance": 42
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": -48
+        },
+        "max_inclusive": {
+          "absolute": 16
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

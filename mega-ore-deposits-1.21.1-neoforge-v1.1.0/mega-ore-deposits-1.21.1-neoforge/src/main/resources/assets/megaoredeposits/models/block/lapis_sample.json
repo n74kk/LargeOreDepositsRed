@@ -1,0 +1,6 @@
+{
+  "parent": "megaoredeposits:block/surface_sample",
+  "textures": {
+    "all": "megaoredeposits:block/lapis_sample"
+  }
+}

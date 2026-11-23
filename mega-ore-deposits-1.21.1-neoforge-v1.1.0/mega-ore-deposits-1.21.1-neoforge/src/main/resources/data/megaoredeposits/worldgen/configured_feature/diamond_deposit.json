@@ -1,0 +1,26 @@
+{
+  "type": "megaoredeposits:ore_deposit",
+  "config": {
+    "stone_ore": {
+      "Name": "minecraft:diamond_ore"
+    },
+    "deepslate_ore": {
+      "Name": "minecraft:deepslate_diamond_ore"
+    },
+    "rich_ore": {
+      "Name": "minecraft:deepslate_diamond_ore"
+    },
+    "host_rock": {
+      "Name": "minecraft:tuff"
+    },
+    "surface_sample": {
+      "Name": "megaoredeposits:diamond_sample"
+    },
+    "radius_xz": 8,
+    "radius_y": 4,
+    "density": 0.42,
+    "rich_core_chance": 0.35,
+    "host_rock_chance": 0.35,
+    "surface_sample_count": 3
+  }
+}

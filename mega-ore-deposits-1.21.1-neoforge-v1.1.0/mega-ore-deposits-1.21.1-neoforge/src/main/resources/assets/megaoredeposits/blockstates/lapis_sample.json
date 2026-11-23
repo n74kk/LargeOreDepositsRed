@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "megaoredeposits:block/lapis_sample"
+      },
+      {
+        "model": "megaoredeposits:block/lapis_sample",
+        "y": 90
+      },
+      {
+        "model": "megaoredeposits:block/lapis_sample",
+        "y": 180
+      },
+      {
+        "model": "megaoredeposits:block/lapis_sample",
+        "y": 270
+      }
+    ]
+  }
+}

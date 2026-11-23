@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "megaoredeposits:coal_deposit",
+    "megaoredeposits:copper_deposit",
+    "megaoredeposits:iron_deposit",
+    "megaoredeposits:gold_deposit",
+    "megaoredeposits:redstone_deposit",
+    "megaoredeposits:lapis_deposit",
+    "megaoredeposits:diamond_deposit"
+  ],
+  "step": "underground_ores"
+}
